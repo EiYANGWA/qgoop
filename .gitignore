@@ -1,0 +1,42 @@
+# ============================
+# Build output
+# ============================
+bin/
+obj/
+
+# ============================
+# User-specific files
+# ============================
+*.user
+*.suo
+*.userprefs
+
+# ============================
+# Visual Studio / IDE
+# ============================
+.vs/
+*.vscode/
+*.idea/
+
+# ============================
+# Local .NET project files (เฉพาะเครื่อง)
+# ============================
+local.net.sln
+local.net.http
+local.net.csproj
+
+# ============================
+# App settings / secrets
+# ============================
+appsettings.Development.json
+
+# ============================
+# OS generated files
+# ============================
+*.DS_Store
+Thumbs.db
+
+# ============================
+# Launch settings (เฉพาะเครื่อง)
+# ============================
+Properties/launchSettings.json
