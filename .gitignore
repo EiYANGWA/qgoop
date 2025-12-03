@@ -21,10 +21,9 @@ obj/
 # ============================
 # Local .NET project files (เฉพาะเครื่อง)
 # ============================
-local.net.sln
-local.net.http
-local.net.csproj
-
+# local.net.sln   <-- ignore เฉพาะไฟล์ local เฉพาะเครื่อง
+# local.net.http  <-- ignore เฉพาะเครื่อง
+# local.net.csproj <-- อย่า ignore csproj หลัก
 # ============================
 # App settings / secrets
 # ============================
